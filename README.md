@@ -20,3 +20,8 @@ Este é um aplicativo simples de **Lista de Compras** feito com HTML, CSS e Java
 
 ```bash
 git clone https://github.com/usuario/lista-de-compras-app.git
+
+
+## Aplicativo em funcionamento
+
+![Lista de Compras App](images/Aplicativo.jpeg)
