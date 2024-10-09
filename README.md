@@ -14,6 +14,10 @@ Este é um aplicativo simples de **Lista de Compras** feito com HTML, CSS e Java
 - **CSS**: Estilização da interface.
 - **JavaScript**: Funcionalidade interativa para adicionar e remover itens.
 
+## Aplicativo em funcionamento
+
+![Lista de Compras App](images/Aplicativo.jpeg)
+
 ## Como Usar
 
 1. Clone este repositório:
@@ -22,6 +26,4 @@ Este é um aplicativo simples de **Lista de Compras** feito com HTML, CSS e Java
 git clone https://github.com/usuario/lista-de-compras-app.git
 
 
-## Aplicativo em funcionamento
 
-![Lista de Compras App](images/Aplicativo.jpeg)
