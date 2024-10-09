@@ -16,7 +16,7 @@ Este é um aplicativo simples de **Lista de Compras** feito com HTML, CSS e Java
 
 ## Aplicativo em funcionamento
 
-![Lista de Compras App](images/Aplicativo.jpeg)
+![Lista de Compras App](images/Aplicativo.jpg)
 
 ## Como Usar
 
